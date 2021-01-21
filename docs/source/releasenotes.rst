@@ -8,6 +8,7 @@ Upcoming release
 
   - Keyword ``Open File`` uses ``Open Dialog`` only if windowtitle is given
   - Keyword ``Open File`` return type changed (*NOTE. backwards compatibility breaking change*)
+
 7.2.0
 -----
 
